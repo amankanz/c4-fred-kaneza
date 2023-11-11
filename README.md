@@ -10,8 +10,8 @@ Feel free to dive into the projects, explore the code, and offer any feedback or
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/react-projects.git`
-2. Navigate to a specific project: `cd project-name`
+1. Clone the repository: `git clone https://github.com/amankanz/c4-fred-kaneza.git`
+2. Navigate to a specific project: `cd c4-fred-kaneza`
 3. Install dependencies: `npm install`
 4. Run the project: `npm start`
 
